@@ -1,0 +1,5 @@
+{
+    "server_address": ":8080",
+    "database_url": "postgresql://localhost:5432/auth",
+    "jwt_secret": "vfnu3298vnf3298vn3902vnh93"
+}
